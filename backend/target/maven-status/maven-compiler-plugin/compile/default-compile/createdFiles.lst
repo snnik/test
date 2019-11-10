@@ -1,0 +1,4 @@
+com/restful/Post.class
+com/restful/CrudController.class
+com/restful/PostRepository.class
+com/restful/ReactAndSpringDataRestApplication.class
